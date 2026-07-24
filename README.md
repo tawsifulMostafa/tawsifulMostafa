@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Tawsiful Mostafa Moniri 👋
 
-<!--
-**tawsifulMostafa/tawsifulMostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Stack Developer** — I build full-stack web applications with a focus on clean code and smooth user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend**
+`React` `Next.js` `JavaScript` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `MongoDB`
+
+---
+
+## 🔍 Currently
+
+- 🚀 Open to **full-time** and **freelance** opportunities
+- 🌱 Deepening my skills in **Next.js** and **backend architecture**
+- 💬 Always happy to talk about web development
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tawsiful%20Moniri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawsiful-moniri)
+[![GitHub](https://img.shields.io/badge/GitHub-tawsifulMostafa-181717?style=flat&logo=github&logoColor=white)](https://github.com/tawsifulMostafa)
+
+---
+
+*Available for work — feel free to reach out!*
